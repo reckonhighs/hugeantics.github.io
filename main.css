@@ -1,6 +1,11 @@
-body {
-   background-image: url(logo.jpg), url(bridge.jpg);
-   background-position: center top, center top;
-   background-repeat: no-repeat, no-repeat;
-   background-size: 229px 161px, auto;
+html { 
+  background: url(logo.jpg) no-repeat center top fixed, url(ramp.jpg) no-repeat center top fixed;
+  -webkit-background-size: 327px 230px, cover;
+  -moz-background-size: 327px 230px, cover;
+  -o-background-size: 327px 230px, cover;
+  background-size: 327px 230px, cover;
+}
+
+#social {
+	border:thin;
 }
