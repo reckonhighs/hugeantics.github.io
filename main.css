@@ -1,20 +1,19 @@
 html { 
-  background: url(logo.jpg) no-repeat center top fixed, url(ramp.jpg) no-repeat center top fixed;
-  -webkit-background-size: 327px 230px, cover;
-  -moz-background-size: 327px 230px, cover;
-  -o-background-size: 327px 230px, cover;
-  background-size: 327px 230px, cover;
+  background: url(ramp.jpg) no-repeat 36% top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .social {
     /*position: absolute;*/
-    margin-top: 15%;
+    margin-top: 10%;
     text-align: center;
 }
 
 .fa {
   padding: 20px;
-  font-size: 30px;
   width: 50px;
   text-align: center;
   text-decoration: none;
