@@ -25,10 +25,11 @@ div.pagetop {
 }
 
 div.logo {
-    height: 50%;
+    height: 60%;
 }
 
 div.social {
+    margin-top: -20px;
 }
 
 .fa {
