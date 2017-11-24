@@ -1,1 +1,3 @@
- include: ['.well-known']
+include: ['.well-known']
+url: https://hugeantics.com
+enforce_ssl: hugeantics.com
